@@ -1,0 +1,9 @@
+@media (min-width:768px){
+    #parent{
+        position: relative;
+    }
+    #child{
+        position: absolute;
+        bottom: 0px;
+    }
+}
